@@ -1,0 +1,17 @@
+Installation Steps for Sass on Windows
+--------------------------------------
+
+1. Verified Node.js installation:
+   - Command: `node -v`
+   - Output: v24.7.0
+
+2. Verified npm installation:
+   - Command: `npm -v`
+   - Output: 11.5.2
+
+3. Installed Sass globally using npm:
+   - Command: `npm install -g sass`
+
+4. Verified Sass installation:
+   - Command: `sass --version`
+   - Output: 1.92.1 compiled with dart2js 3.9.2
